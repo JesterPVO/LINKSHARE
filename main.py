@@ -10,7 +10,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.enums import ChatMemberStatus
 
 # ================= CONFIGURATION =================
-BOT_TOKEN = "8933523782:AAFahGIoE2J5BUfelAM7NhwnCdtRhlLD9X0"
+BOT_TOKEN = "8876529386:AAEXwQUSUv6QBmMPP_YtavhyaY_Jb4GomZ4"
 ADMIN_PASS = "ahadop123"
 
 # ================= DATABASE SETUP =================
